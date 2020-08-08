@@ -55,6 +55,7 @@ For more information, please look at the KL test notebook and the paper.
 ### Feature Maps in Convolution Filter
 The first is low level feature and the second is higher level feature in the CNN.
 ![low](plots/low_level.png)
+\newline
 ![high](plots/high_level.png)
 
 For more implementation detail there is a neural network notebook in the notebook file as well.
