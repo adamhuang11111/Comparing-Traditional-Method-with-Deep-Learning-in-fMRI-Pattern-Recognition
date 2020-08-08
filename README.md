@@ -13,7 +13,7 @@ would help deep learning models in the future.
 
 ## Description
 
-The github resiportory documents all codes for the project including implementation of the metrics and preprocessing of the FMRI data. The paper is also attached where one can look at the methods.
+The github resiportory documents all codes for the project including implementation of the metrics and preprocessing of the FMRI data. The paper is also attached where one can look at the methods. Read the paper first to know more about it.
 
 
 ## Phenotypic Analysis of the selected data from ADHD-200 dataset
@@ -28,14 +28,24 @@ The github resiportory documents all codes for the project including implementat
 ## Visualization of the FMRI data
 
 ![visualization](plots/t_0.png)
+![average](plots/average_image.png)
 
-![pixel_wise_difference](plots/pdifference.png)
 
-![variance](plots/variance.png)
 
 One can use the notebook FMRI data visualization in the notebook file to animate the FMRI data.
 
 ### Traditional Methods Analysis
+![pixel_wise_difference](plots/pdifference.png)
+
+![variance](plots/variance.png)
+
+The first is the KL Divergence of time evolution of all FMRI pixels of type 1 ADHD kids compared with healthy kids 
+The second is the top 10000 pixels of the result.
+
+![KL](plots/kl_all.png)
+![KL_sparse](plots/kl_sparse.png)
+
+For more information, please look at the KL test notebook and the paper.
 
 
 
