@@ -22,7 +22,7 @@ The github resiportory documents all codes for the project including implementat
 
 ![Performance IQ vs. ADHD type](plots/performance.png)
 
-![Performance IQ vs. Verbal IQ](plots/performance/verbal.png)
+![Performance IQ vs. Verbal IQ](plots/performance:verbal.png)
 
 
 ## Visualization of the FMRI data
