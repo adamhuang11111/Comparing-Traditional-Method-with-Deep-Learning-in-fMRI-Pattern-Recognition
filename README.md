@@ -1,10 +1,5 @@
-# Project Title
-
-Comparing Traditional Method with Deep Learning in fMRI
-Pattern Recognition
-
+# Comparing Traditional Method with Deep Learning in fMRI Pattern Recognition
 ## Abstract
-
 Deep Learning achieves huge success in various image processing tasks. It is, there-
 fore, a popular candidate for processing fMRI data which encodes rich information
 of the neural activity and is hard to be interpreted directly with human eyes. We
@@ -16,12 +11,12 @@ Divergence based model consistently outperforms deep learning models in all task
 We expect that a larger amount of data and more sophisticated data pre-processing
 would help deep learning models in the future.
 
-### Description
+## Description
 
 The github resiportory documents all codes for the project including implementation of the metrics and preprocessing of the FMRI data. The paper is also attached where one can look at the methods.
 
 
-### Phenotypic Analysis of the selected data from ADHD-200 dataset
+## Phenotypic Analysis of the selected data from ADHD-200 dataset
 
 ![Verbal IQ vs. ADHD type](plots/verbal.png)
 
