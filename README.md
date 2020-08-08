@@ -22,12 +22,12 @@ The github resiportory documents all codes for the project including implementat
 
 ![Performance IQ vs. ADHD type](plots/performance.png)
 
-![Performance IQ vs. Verbal IQ](plots/performance:verbal.png)
+![Performance IQ vs. Verbal IQ](plots/performance_verbal.png)
 
 
 ## Visualization of the FMRI data
 
-![visualization](plots/t0)
+![visualization](plots/t_0)
 
 One can use the notebook FMRI data visualization in the notebook file to animate the FMRI data.
 
