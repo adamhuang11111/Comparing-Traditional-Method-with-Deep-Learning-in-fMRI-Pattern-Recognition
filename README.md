@@ -27,7 +27,7 @@ The github resiportory documents all codes for the project including implementat
 
 ## Visualization of the FMRI data
 
-![visualization](plots/t_0)
+![visualization](plots/t_0.png)
 
 One can use the notebook FMRI data visualization in the notebook file to animate the FMRI data.
 
