@@ -29,7 +29,7 @@ The github resiportory documents all codes for the project including implementat
 
 ![visualization](plots/t_0.png)
 
-![pixel_wise_difference](plots/pdiffference.png)
+![pixel_wise_difference](plots/pdifference.png)
 
 ![variance](plots/variance.png)
 
